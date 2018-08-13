@@ -7,4 +7,4 @@
 
 ### 课后习题完成情况
 chapter 3: 10/12 </br>
-chapter 4: 1/10
+chapter 4: 3/10
